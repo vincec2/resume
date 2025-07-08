@@ -1,3 +1,3 @@
-# My LaTeX Resume
+# My Resume
 
-This repository contains my resume written in LaTeX.
+This repository contains my resume. One in LaTeX and one in PDF.
